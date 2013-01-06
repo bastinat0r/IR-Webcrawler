@@ -12,3 +12,6 @@
 
 ## Notes
 The commented code in the Crawler works and it does not use Jsoup for downloading the Websites, doing so with Jsoup is a great deal cleaner and better.
+
+---------
+Aufgabe Bearbeitet von Sebastian Mai
